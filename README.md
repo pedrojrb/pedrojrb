@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedrojrb 😊. I'm 23 years old and i'm studying Functional Systems Analyst.
+- 👋 Hi, I’m @pedrojrb 😊. I'm 24 years old and i'm Functional Systems Analyst.
 - 👀 I’m interested in being programmer.
 - 🌱 I’m currently learning JavaScript and MYSQL.
 
