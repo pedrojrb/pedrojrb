@@ -4,7 +4,8 @@
  <script>
  
     const Pedro = {
-        name : 'Pedro',
+        country : 'Argentina',
+        city : 'Rosario',
         age : 24,
         pronuns : 'he' || 'him',
         learn : 'Node.js',
