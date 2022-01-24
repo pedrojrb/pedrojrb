@@ -8,7 +8,7 @@
         age = 24,
         pronuns = 'he' || 'him',
         skills = ['HTML','CSS', 'Javascript', 'React', 'Mysql'],
-        hobbies = ['football⚽', 'videogames🎮'], 
+        hobbies = ['football⚽', 'videogames🎮', 'watch series🍿'], 
         const getFutureGoal = () => {'first experence like programmer'}
     }
     
