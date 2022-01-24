@@ -11,7 +11,7 @@
         learn : 'Node.js',
         skills : ['HTML','CSS', 'Javascript', 'React'],
         hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'], 
-        const getFutureGoal = () => {'first experence like programmer'}
+        const getFutureGoal = () => { 'first experence like programmer' }
     }
     
   <script />
