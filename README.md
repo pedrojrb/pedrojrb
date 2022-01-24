@@ -15,10 +15,10 @@
   <script />
  
  ```
- ```html
+ 
  <br>
  <img src="https://www.codewars.com/users/pedrojrb/badges/small" />
  <br>
-```
+
 
  No dejes para mañana los 🧉 que __podes tomar hoy.__
