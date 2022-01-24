@@ -4,11 +4,12 @@
  <script>
  
     const Pedro = {
-        name = 'Pedro',
-        age = 24,
-        pronuns = 'he' || 'him',
-        skills = ['HTML','CSS', 'Javascript', 'React', 'Mysql'],
-        hobbies = ['football⚽', 'videogames🎮', 'watch series🍿'], 
+        name : 'Pedro',
+        age : 24,
+        pronuns : 'he' || 'him',
+        learn : 'Node.js',
+        skills : ['HTML','CSS', 'Javascript', 'React'],
+        hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'], 
         const getFutureGoal = () => {'first experence like programmer'}
     }
     
