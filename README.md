@@ -15,5 +15,5 @@
   <script />
  
  ```
- 
+ https://www.codewars.com/users/pedrojrb/badges/large
  No dejes para mañana los 🧉 que __podes tomar hoy.__
