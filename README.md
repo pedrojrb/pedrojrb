@@ -19,8 +19,8 @@
  ```
  
  <br>
- <img src="https://www.codewars.com/users/pedrojrb/badges/small" />
- <br>
+ <a href= 'https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/small" /></a>
+ <br><
 
 
  No dejes para mañana los 🧉 que __podes tomar hoy.__
