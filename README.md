@@ -8,8 +8,7 @@
         city : 'Rosario',
         age : 24,
         pronuns : 'he' || 'him',
-        learning : 'Node.js',
-        skills : ['HTML','CSS', 'Javascript', 'React'],
+        skills : ['HTML','CSS','NodeJS'],
         hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'], 
         const getFutureGoal = () => { 'first experence like programmer' }
     }
