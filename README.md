@@ -8,7 +8,7 @@
         city : 'Rosario',
         age : 24,
         pronuns : 'he' || 'him',
-        skills : ['Express JS','NodeJS', 'React JS'],
+        skills : ['Express JS','NodeJS', 'React JS', 'Mysql'],
         hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'],
         currentJob : 'Functional Systems Analyst',
         getFutureGoal : () => 'first experence like developer'
