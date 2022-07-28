@@ -11,7 +11,7 @@
         skills : ['Express JS','NodeJS', 'React JS'],
         hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'],
         currentJob : 'Functional Systems Analyst',
-        getFutureGoal : () => { 'first experence like developer' }
+        getFutureGoal : () => 'first experence like developer'
     }
     
   <script />
