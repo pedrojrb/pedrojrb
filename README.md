@@ -9,8 +9,9 @@
         age : 24,
         pronuns : 'he' || 'him',
         skills : ['Express JS','NodeJS', 'React JS'],
-        hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'], 
-        const getFutureGoal = () => { 'first experence like backend developer' }
+        hobbies : ['football⚽', 'videogames🎮', 'watch series🍿'],
+        currentJob : 'Functional Systems Analyst',
+        getFutureGoal : () => { 'first experence like developer' }
     }
     
   <script />
