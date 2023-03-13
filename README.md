@@ -6,7 +6,7 @@
     const Pedro = {
         country : 'Argentina',
         city : 'Rosario',
-        age : 24,
+        age : 25,
         pronuns : 'he' || 'him',
         skills : ['Express JS','NodeJS', 'React JS', 'SQL'],
         hobbies : ['Play Soccer⚽', 'Videogames🎮', 'Watch Series🍿'],
