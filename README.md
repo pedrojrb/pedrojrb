@@ -1,6 +1,6 @@
  ##  console.log ('Hello World!! 👋 ')
 
- <h1>ME</h1>
+ <h1>ABOUT ME:</h1>
  
  ```js
  <script>
