@@ -1,6 +1,6 @@
- ##  console.log ('Hello World!! 👋 ')
+ ##  console.log ('Hello👋, welcome to my profile😄.')
 
- <h1>ABOUT ME:</h1>
+### About me:
  
  ```js
  <script>
@@ -25,7 +25,7 @@
  
  ```
 
- <h2>Code challenges:</h2>
+ ### Code challenges:
  <br>
  <a href= 'https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/small" /></a>
  <br>
