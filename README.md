@@ -8,7 +8,7 @@
     const Pedro = {
         country : 'Argentina',
         city : 'Rosario',
-        age : 25,
+        age : 26,
         pronuns : 'he' || 'him',
         languagues: ['Typescript', 'Javascript'],
         skills : ['Postman','Express JS','NodeJS', 'MongoDB','SQL'],
