@@ -13,11 +13,13 @@
         languagues: ['Java','Typescript', 'Javascript'],
         skills : ['Postman','Express JS','NodeJS', 'MongoDB','SQL'],
         hobbies : ['Soccer⚽', 'Videogames🎮', 'Series🍿'],
-        currentJob : [{
+        jobs: [{
          'What':'Functional Systems Analyst',
          'Where': 'Neuralsoft',
-         'When': '03/2022 - today'
+         'When': '03/2022 - today',
+         'currentJob' : true;
         }],
+        currentJob : (jobs) => jobs.filter(job => job.currentJob === true),
         getFutureGoal : () => 'First experience as a programmer'
     }
     
