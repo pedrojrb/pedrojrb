@@ -27,6 +27,5 @@
 
  ### Code challenges:
  <br>
- <h1>I practice my logic here:</h1>
- <a href= 'https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/small" /></a>
+ <a href= 'https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/large" /></a>
  <br>
