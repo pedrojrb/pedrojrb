@@ -10,7 +10,7 @@
         city : 'Rosario',
         age : 26,
         pronuns : 'he' || 'him',
-        languagues: ['Typescript', 'Javascript'],
+        languagues: ['Java','Typescript', 'Javascript'],
         skills : ['Postman','Express JS','NodeJS', 'MongoDB','SQL'],
         hobbies : ['Soccer⚽', 'Videogames🎮', 'Series🍿'],
         currentJob : [{
@@ -27,5 +27,6 @@
 
  ### Code challenges:
  <br>
+ <h1>I practice my logic here:</h1>
  <a href= 'https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/small" /></a>
  <br>
