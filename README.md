@@ -58,6 +58,11 @@ const Pedro = {
 ### Future Goal 🚀
 My future goal is to embrace **new challenges and achieve professional growth**.
 
+### Coding Challenges & Problem Solving 🧠
+I enjoy solving coding challenges to improve my problem-solving skills and keep my mind sharp. Here's my progress on CodeWars:
+
+<a href='https://www.codewars.com/users/pedrojrb'><img src="https://www.codewars.com/users/pedrojrb/badges/large" /></a>
+ 
 ### Contact Me 📬
 - **Email**: [ruizbaleanipedro@gmail.com](mailto:ruizbaleanipedro@gmail.com)
 - **LinkedIn**: [Pedro's LinkedIn](https://www.linkedin.com/in/pedrojruizbaleani/)
